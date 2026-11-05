@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 venv/
 snyk-code-raw.json
+blog.db
